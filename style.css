@@ -1,0 +1,57 @@
+.titulo {
+    background-color: rgb(240, 235, 235);
+    width: 27rem;
+    display: flex;
+    justify-content: center;
+}
+
+.n1,  .n2{
+    height: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.numeros{
+    display: flex;
+    justify-content: center;
+    width: 27rem;
+    align-items: center;
+}
+
+.container {
+    border: 1px solid;
+    width: 28rem;
+    padding: 1rem;
+    margin: auto;
+    margin-top: 15rem;
+}
+
+.medidas{
+    display: flex;
+    justify-content: center;
+    width: 28rem;
+}
+
+.med {
+    display: flex;
+    border: 1px solid;
+    width: 9rem;
+    padding: 0.3rem;
+    justify-content: space-between;
+    margin-right: 1.9rem;
+    margin-left: 0.9rem;
+}
+
+.formula {
+    display: flex;
+    justify-content: center;
+    width: 28rem;
+    padding-right: 1rem;
+}
+
+.titulo_formula {
+    width: 2rem;
+    background-color: #f9ab00;
+    color: rgb(66, 74, 81);
+
+}
